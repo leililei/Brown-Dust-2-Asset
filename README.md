@@ -1,0 +1,1 @@
+AssetStudio.CLI downloads extract --unity_version 2022.2.17f1  --game Normal --group_assets ByContainer --types Texture2D --types TextAsset --containers "^(bg_|char_|specialillust|illust|story|npc|Assets/AddressableResources/BundleCommon/(MiniGame|SkeletonData))"
